@@ -3,5 +3,5 @@ layout: page
 title: Devbox Setup
 ---
 
-* [Mac](/mac)
-* [Linux](/linux) (coming soon!)
+* [Mac]({{ site.baseurl }}/mac)
+* [Linux]({{ site.baseurl }}/linux) (coming soon!)
