@@ -1,0 +1,27 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Our variables
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+  "syntax-highlighting",
+  "bootstrap"
+;
+
+.post-content, .page-content {
+  min-height: 300px;
+  margin-bottom: 6em;
+}
+
+.footer {
+  margin-bottom: 4em;
+  padding-top: 1em;
+  border-top: 1px solid #EEE;
+  color: #777;
+  font-size: 0.95em;
+}
