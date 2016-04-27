@@ -3,8 +3,8 @@ title: Devbox Setup
 email: ian@iansutherland.ca
 description: >
   Devbox setup instructions for Mac and Linux.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/iansu/devbox-setup" # the base hostname & protocol for your site
+baseurl: "/devbox-setup" # the subpath of your site, e.g. /blog
+url: "http://iansu.github.io" # the base hostname & protocol for your site
 twitter_username: iansu
 github_username:  iansu
 
