@@ -72,9 +72,8 @@ permalink: /mac
 
 We are going to use [rbenv](https://github.com/rbenv/rbenv) to install Ruby. This allows you to install multiple versions of Ruby and use different versions for different projects.
 
-* Install rbenv using homebrew by installing the following packages
+* Install rbenv using homebrew by installing the following package
   * rbenv
-  * ruby-build
 * Read the rbenv documentation on [installing Ruby versions](https://github.com/rbenv/rbenv#installing-ruby-versions). You should know how to:
   * List available Ruby versions
   * Install a specific version of Ruby
