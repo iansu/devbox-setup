@@ -10,12 +10,15 @@ This tutorial assumes you are using [Ubuntu](http://www.ubuntu.com/) or some var
 
 * Install [Atom](https://atom.io/)
 * Install Atom plugins: Settings -> Install
+  * editorconfig
   * highlight-selected
+  * language-babel
   * language-haml
   * language-jade
   * linter
   * linter-eslint
   * minimap
+  * prettier-atom
   * trailing-spaces
 
 
@@ -126,6 +129,7 @@ We are going to use [NVM](https://github.com/creationix/nvm) to install Node. Ju
   * postgres
   * mysql
   * sqlite
+  * redis
 
 
 ## Vagrant

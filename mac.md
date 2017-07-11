@@ -9,12 +9,15 @@ permalink: /mac
 * Install [Xcode](https://itunes.apple.com/ca/app/xcode/id497799835) from the Mac App Store
 * Install [Atom](https://atom.io/)
 * Install Atom plugins: Settings -> Install
+  * editorconfig
   * highlight-selected
+  * language-babel
   * language-haml
   * language-jade
   * linter
   * linter-eslint
   * minimap
+  * prettier-atom
   * trailing-spaces
 
 
@@ -113,7 +116,8 @@ We are going to use [NVM](https://github.com/creationix/nvm) to install Node. Ju
   * postgres
   * mysql
   * sqlite
-* Configure MySQL and Postgres to start on boot by following the homebrew post-install instructions
+  * redis
+* Configure MySQL, Postgres and Redis to start on boot by following the homebrew post-install instructions
 
 
 ## Vagrant
